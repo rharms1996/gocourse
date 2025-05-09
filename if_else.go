@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func main() {
 
 	// if condition {
@@ -82,14 +80,62 @@ func main() {
 	//	fmt.Println("Not divisible by 5")
 	//}
 
-	num := 3
-	if num%3 == 0 {
-		if num%10 == 0 {
-			fmt.Println("This number is divisible by 3 and 10")
-		} else {
-			fmt.Println("This number is divisible by 3 and not 10")
-		}
-	} else {
-		fmt.Println("This number is not divisible by 3")
-	}
+	//num := 3
+	//if num%3 == 0 {
+	//if num%10 == 0 {
+	//	fmt.Println("This number is divisible by 3 and 10")
+	//} else {
+	//	fmt.Println("This number is divisible by 3 and not 10")
+	//	}
+	//} else {
+	//	fmt.Println("This number is not divisible by 3")
+	//	}
+
+	//num := 45
+
+	//if num%10 == 0 {
+	//	if num%15 == 0 {
+	//	fmt.Println("This number is divisible by 10 and 15.")
+	//} else {
+	//	fmt.Println("This number is divisible by 10 and not 15.")
+	//}
+	//} else {
+	//fmt.Println("This number is divisible by 15")
+	//}
+
+	//num := 30
+	//if num%5 == 0 {
+	//if num%3 == 0 {
+	//	fmt.Println("This number is divisible by 5 and 3.")
+
+	//} else {
+	//	fmt.Println("This number is divisible by 5 and not 3.")
+	//}
+	//} else {
+	//fmt.Println("This number is divisible by 3")
+	//}
+
+	//num := 30
+	//if num%10 == 0 {
+	//	if num%4 == 0 {
+	//	fmt.Println("This number is divisible by 4 and 10.")
+	//} else {
+	//	fmt.Println("This number is divisible by 10 and not 4.")
+	//}
+	//} else {
+	//	fmt.Println("This number is divisible by 4.")
+	//}
+
+	//num := 30
+	//if num%5 == 0 {
+	//	if num%15 == 0 {
+	//	fmt.Println("This number is divisible by 5 and 15.")
+	//} else {
+	//	fmt.Println("This number is divisible by 5 and not 15.")
+	//}
+
+	//} else {
+	//	fmt.Println("This number is divisible by 5")
+	//	}
+
 }
