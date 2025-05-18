@@ -138,4 +138,8 @@ func main() {
 	//	fmt.Println("This number is divisible by 5")
 	//	}
 
+	//if 10%2 == 0 || 5%2 == 0 {
+	//fmt.Println("The value is either 5 or 10.")
+	//}
+
 }
